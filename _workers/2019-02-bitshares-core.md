@@ -3,14 +3,14 @@ language: en
 layout: worker
 type: budget
 bfid: 201902-bitshares-core
-workerid: 
+workerid: 1.14.163
 title: BitShares-Core Development Team
 name: Ryan R. Fox (`fox`)
 company:
  name:
  url:
 status:
-discussions:
+discussions: https://bitsharestalk.org/index.php?topic=27762.0
 #  - name: bitsharestalk
 #    url: https://bitsharestalk.org/index.php?topic=25968.0
 #  - name: steemit
